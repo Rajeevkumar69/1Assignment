@@ -1,0 +1,29 @@
+Q1.  Write the python command to get the python versionb you are using.
+Ans. www.python.org
+
+Q2.  Write a python script to print Hello Python on the screen directlyin the command line.
+Ans. print("Hello Python")
+
+Q3.  Write a python script to print Hello on the First line and Python on the Second line.
+Ans.  print("Hello\nPython")
+
+Q4.  Write the python script to print "MySirG" on the Screen.
+Ans. print(""MySirG"")
+
+Q5.  Write a python script to print the value of a variable. veriable contain your name as data.
+Ans. a="Rajeev"
+     print(a)
+Q6.  Write a python script to create variable to store your name, age,qulification,years of experience and print it.
+Ans. name="Rajeev Kumar"
+     age=22
+     qul="B.Tech"
+     Year_of_exp=0
+     print(name,age,qul,Year_of_exp)
+     
+Q7.  Write a python script ot print value of three variables,each in a new line,variable contain integer value.
+Ans.  a=20
+      b=30
+      c=40
+      print(a,b,c,sep='\n')
+Q8.  Write a python script ot print Hello Pyhton Using visual code studio.
+Ans. print("Hello Pyhton)
