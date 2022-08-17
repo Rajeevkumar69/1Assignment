@@ -27,3 +27,9 @@ Ans.  a=20
       print(a,b,c,sep='\n')
 Q8.  Write a python script ot print Hello Pyhton Using visual code studio.
 Ans. print("Hello Pyhton)
+
+Q9.  Write a python script ot print "Hello Python" on the Screen.
+Ans. print("\Hello Python\"")
+
+Q10. Write a python script to print "MySirG" on the Screen.
+Ans. print("\"MySirG\"")
