@@ -1,5 +1,6 @@
 Q1.  Write the python command to get the python version you are using.
-Ans. www.python.org
+Ans. import sys
+      print(sys.version)
 
 Q2.  Write a python script to print Hello Python on the screen directly in the command line.
 Ans. print("Hello Python")
